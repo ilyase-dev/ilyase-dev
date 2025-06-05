@@ -18,9 +18,12 @@
 
 ## 🚧 Current Projects
 
-- 🔐 Setting up a personal cybersecurity lab (Kali Linux, Metasploitable)
-- 🧑‍💻 Working through the [TryHackMe Beginner Path](https://tryhackme.com/)
-- 📝 Planning to share notes, walkthroughs, and small Python scripts here soon
+- 📝 Active TryHackMe learner:  
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ilyasedev.png)](https://tryhackme.com/p/Ilyasedev) .
+
+- 📝 [Ping Scanner (Bash)](https://github.com/ilyase-dev/ping-scanner): subnet scanner script  .
+- 📝 [Wireshark Analysis Lab](https://github.com/ilyase-dev/Wireshark-Analysis-Lab): beginner packet capture lab  .
+- 📝 Planning to share notes, walkthroughs, and small Python scripts here soon .
 
 ---
 
