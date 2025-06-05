@@ -10,8 +10,8 @@
 
 - **Operating Systems:** Windows 10/11, Ubuntu, Kali Linux  
 - **Networking:** IP addressing, DNS, DHCP, subnetting, firewall basics  
-- **Tools & Platforms:** Cisco Packet Tracer, Wireshark, VirtualBox, Nmap, TryHackMe  
-- **Languages:** Python (beginner), Bash basics  
+- **Tools & Platforms:** Cisco Packet Tracer, Wireshark, VirtualBox, Nmap, TryHackMe  , vs code .
+- **Languages:** Python (beginner), Bash basics  ,javascript, html , css.
 - **Soft Skills:** Fast learner, strong problem solver, team player
 
 ---
