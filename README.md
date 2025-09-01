@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ilyase
 
-🎓 I'm a second-year IT student at ISTA (Technicien Spécialisé en Infrastructure Digitale Sécurisée), based in Casablanca.  
 💻 I'm passionate about **cybersecurity**, **networking**, and **Linux systems**.  
 🧠 I learn by building labs at home, exploring TryHackMe, and solving real technical problems.
 
